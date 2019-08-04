@@ -1,2 +1,2 @@
-# o-Meta-datafiles-Syrian-project
+# Meta-datafiles-Syrian-project
 explanation of variables
